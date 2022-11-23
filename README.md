@@ -41,9 +41,9 @@
 
 [![Munny's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=46-Munny&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Munnys's github stats](https://github-readme-stats.vercel.app/api?username=46-Munny&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=46-Munny&theme=tokyonight) |
+| ![Munnys's github stats](https://github-readme-stats.vercel.app/api?username=46-Munny&show_icons=true&theme=tokyonight) | ![Munny GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=46-Munny&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=46-Munny&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=46-Munny&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 
