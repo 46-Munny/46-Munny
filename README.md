@@ -7,7 +7,7 @@
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=46-Munny.46-Munny)
-[![Github](https://img.shields.io/github/followers/46-Munny?label=Follow&style=social)](https://github.com/46-Munny)
+
 
 <div size='20px'> Thank You for taking the time to view my GitHub Profile :smile:
 </div>
