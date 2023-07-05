@@ -6,7 +6,7 @@
 <h3 align="center">I am a student of department of CSE at Jahangirnagar University.</h3>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=46-Munny.46-Munny)
+
 
 
 <div size='20px'> Thank You for taking the time to view my GitHub Profile :smile:
@@ -32,7 +32,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://linkedin.com/in/israt jahan munny'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://fb.com/israt jahan munny'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></a>
+
 <a href = 'https://www.github.com/46-Munny'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <br>
