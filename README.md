@@ -12,13 +12,13 @@
 <div size='20px'> Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
- 🔭 I’m a student.
- 🌱 I’m currently learning Deep Learning.
- 🔭 I’m interested on research, web-development and programming .
- 🔭 My research interests lie in digital image processing, machine learning, and computer vision.
- 💬 Ask me about machine learning, image processing, Sql, Java, Php, JavaScript, Python, C,C++
+ 🔭 I’m a student.<br>
+ 🌱 I’m currently learning Deep Learning.<br>
+ 🔭 I’m interested on research, web-development and programming .<br>
+ 🔭 My research interests lie in digital image processing, machine learning, and computer vision.<br>
+ 💬 Ask me about machine learning, image processing, Sql, Java, Php, JavaScript, Python, C,C++<br>
 
 
 
